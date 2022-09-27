@@ -2,10 +2,6 @@ name: Bug Report
 description: File a bug report
 title: "[Feature \U0001F680]: "
 labels: ["Feature", "triage"]
-assignees:
-  - ntindle
-  - mhmulford0
-  - kempsterrrr
 body:
   - type: markdown
     attributes:
